@@ -5,7 +5,6 @@ homepage: https://github.com/AndresR173/countdown_progress_indicator
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
-  flutter: '>=3.19.0'
 
 dependencies:
   flutter:
